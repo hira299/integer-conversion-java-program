@@ -1,8 +1,6 @@
-Here’s an enhanced and professional-looking `README.md` for your project:
 
-```markdown
 # Integer conversion Java program
-
+----
 ## 🚀 Overview
 The **Lab_Int_Conversion** project is a simple yet practical Java program designed to convert an integer input into its **binary**, **hexadecimal**, and **octal** representations. It demonstrates the use of Java's wrapper class methods in a beginner-friendly manner.
 
